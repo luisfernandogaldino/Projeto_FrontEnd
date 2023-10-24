@@ -1,0 +1,20 @@
+{
+  "tarefa": [
+    {
+      "tarefa": "json-server",
+      "id": 1
+    },
+    {
+      "tarefa": "criar uma aplicação no angular",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "tarefa": "Fazer khan Academy Fisíca"
+    },
+    {
+      "id": 4,
+      "tarefa": "Spring Arrumar Lombok não econtrando as classes"
+    }
+  ]
+}
